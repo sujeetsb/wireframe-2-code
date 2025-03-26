@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+1. clone the repo
+
+2. run 'npm install'
+
+3. add env file similarly like env_sample.txt
+
+4. create Firebase project add releted details in env
+
+5. create account with neon db 'https://neon.tech/docs/introduction' , openrouter ai 'https://openrouter.ai/' add relevant details to env
+
+6. use command 'npx drizzle-kit studio' to start drizzle studio on 'https://local.drizzle.studio'
+
+7. https://sandpack.codesandbox.io/docs/getting-started
